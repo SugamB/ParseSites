@@ -1,6 +1,4 @@
-# ParseSites
-
-# Random-Movie-Generator-June-2020-
+# Random Movie Generator (June 2021)
 
 Scraps the html data from the website "yts(dot)mx" and uses the info to suggest random movies based on user's choice of "Rating" and "Genre". 
 
